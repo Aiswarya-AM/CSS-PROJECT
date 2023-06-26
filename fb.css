@@ -1,0 +1,199 @@
+.header{
+    background-color: #3b5998;
+    width:100%;
+    height:85px;
+}
+body{
+    margin: 0;
+    font-family: Helvetica Neue, Helvetica, Arial,sans-serif;
+}
+.logo{
+    width:50%;
+    padding-top: 32px;
+    float: left;
+}
+.logo-text{
+    color: #fff;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica Neue, Helvetica, Arial,sans-serif;
+    margin-left: 170px;
+    
+}
+.login{
+     width:50%;
+     padding-top: 10px;
+     float: left;
+     
+}
+.login-label
+{
+    color:#fff;
+    font-size: 13px;
+}
+.log-form{
+    
+    margin-left: 115px;
+}
+.fa{
+    color: #9cb4d8;
+    text-decoration:none;
+    font-size: 13px;
+
+}
+.submit{
+    background-color: #4267b2;
+    color:#fff;
+    height: 20px;
+    border-color: #29487d;
+    cursor:pointer;
+}
+.submit:hover{
+    background: rgb(35, 3, 94);
+}
+.mainbody{
+    width=100%;
+    height:500px ;
+    background-color:#eef0f5;
+}
+.mainbody1{
+    width=100%;
+    height:500px ;
+    background-color:#eef0f5;
+    padding: 25%;
+    padding-top:10%;
+    padding-bottom:10%;
+}
+.left-section{
+    padding-top:52px;
+    margin-left: 170px;
+    width:50% ;
+    float:left;
+
+}
+.right-section{
+    width:30%;
+    float:left;
+}
+.pic{
+    width:500px;
+    height:300px;
+}
+.para{
+    font-size:22px;
+    font-weight:bold;
+}
+.name{
+    color: #0b0b0c;
+    font-weight: bold;
+    border-color: #e9dbdb;
+    border-top: #e9dbdb;
+    border-left:#e9dbdb ;
+    border-radius: 5px;
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+.number{
+    color: #0c0c0e;
+    font-weight: bold;
+    border-color: #e9dbdb;
+    border-top: #e9dbdb;
+    border-left:#e9dbdb ;
+    border-radius: 5px;
+    width:240px;
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+.Birthday{
+    color: rgb(184, 181, 181);
+    font-weight: bold;
+    margin-top: 12px;
+    padding-bottom:12px;
+}
+.v{
+    border-color: grey;
+    color: black;
+    margin-left: 0;
+}
+.gender{
+    margin-left:4px;
+    color: rgb(184, 181, 181);
+    font-weight: bold;
+    padding-bottom:8px;
+    padding-top: 8px;
+}
+.check{
+    margin-left:5px;
+    color: rgb(0, 0, 0);
+    
+
+}
+.terms{color: rgb(184, 181, 181);
+font-weight: bold;
+font-size: 15px;}
+.af{
+    color: rgb(113, 88, 250);
+font-weight: bold;
+font-size: 15px;
+text-decoration:none;
+}
+.sign{
+    border-radius: 5px;
+    background-color: rgb(18, 145, 18);
+    width: 200px;
+    height:40px;
+    font-weight:bold;
+    color:white;
+    font-size: 30px;
+}
+.box{
+    color: #000;
+    background-color: #fff;
+    height:300px;
+    width: 500px;
+    border-radius:5px;
+    padding-top:15px;
+    padding-left:20px;
+    padding-right:20px;
+}
+.first{
+    color: #000;
+    font-size:20px;
+    font-weight: bold;
+}
+.second{
+    font-size:16px;
+}
+.number1{
+    color: #0c0c0e;
+    font-weight: bold;
+    border-color: #e9dbdb;
+    border-top: #e9dbdb;
+    border-left:#e9dbdb ;
+    border-radius: 5px;
+    width:450px;
+    font-size: 15px;
+    margin-bottom: 5px;
+    height: 50px;
+}
+.sign2{
+    border-radius: 5px;
+    background-color: rgb(3, 97, 238);
+    width: 50px;
+    height:30px;
+    font-weight:bold;
+    color:white;
+    font-size: 10px;  
+    border-width:0px; 
+}
+.sign1{
+    border-radius: 5px;
+    background-color: rgb(253, 253, 253);
+    width: 50px;
+    height:30px;
+    font-weight:bold;
+    color:rgb(0, 0, 0);
+    font-size: 10px;  
+    border-width:0px; 
+}
